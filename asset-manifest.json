@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cryptic-Rahul/React-project-1/static/css/main.071d8b87.css",
+    "main.js": "/Cryptic-Rahul/React-project-1/static/js/main.95a54e3c.js",
+    "index.html": "/Cryptic-Rahul/React-project-1/index.html",
+    "static/media/search.svg": "/Cryptic-Rahul/React-project-1/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.071d8b87.css.map": "/Cryptic-Rahul/React-project-1/static/css/main.071d8b87.css.map",
+    "main.95a54e3c.js.map": "/Cryptic-Rahul/React-project-1/static/js/main.95a54e3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071d8b87.css",
+    "static/js/main.95a54e3c.js"
+  ]
+}
